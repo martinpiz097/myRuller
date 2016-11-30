@@ -1,0 +1,22 @@
+El softare debe:
+
+    - Registrar menstruaciones --> al crear una nueva debe verificar que otra no haya funalizado y si
+        este es el caso debe ser finalizada la anterior con una fecha especificada para comenzar otra
+        y si no se desea finalizar el software no permitira registrar una nueva. En caso de que no se 
+        finalice la anterior el software la finalizará con la fecha actual.
+
+
+    - Gestionar última menstruación --> editar los dias de relaciones y en que fecha fueron, 
+        si finalizó o no y corregir días que estén incorrectos.
+
+    - Gestionar todas las menstruaciones --> lo mismo pero con todas.
+
+    - Eliminar menstruaciones en caso de errores
+
+    El sistema no debe permitir que una menstruación comience antes de que otra termine.
+
+    Tambien debe permitirse listar todas las menstruaciones por cliente.
+
+    Cada cliente solo tiene un usuario y un usuario solo pertenece a un cliente.
+
+    
